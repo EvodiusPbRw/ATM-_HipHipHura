@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="Final_Project_GUI_versi_55/GUI_PROJECT_FINAL_JAR.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Final_Project_GUI_versi_55/proMani.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Final_Project_GUI_versi_55/src&lt;{GUI_INTERFACE_LOG_IN.java[GUI_INTERFACE_LOG_IN" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Final_Project_GUI_versi_55/database2"/>
+        <javaElement handleIdentifier="=Final_Project_GUI_versi_55/src"/>
+        <file path="/Final_Project_GUI_versi_55/.classpath"/>
+        <file path="/Final_Project_GUI_versi_55/.project"/>
+    </selectedElements>
+</jardesc>
